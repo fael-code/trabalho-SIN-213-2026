@@ -11,3 +11,5 @@ Após a execução do algoritmo e geração dos arquivos de entrada, saída e te
 
 python graphtab.py
 python main.py
+
+[Relatório_Heap_Sort_Priority_Queue_Sort.pdf](https://github.com/user-attachments/files/34970184/Relatorio_Heap_Sort_Priority_Queue_Sort.pdf)
